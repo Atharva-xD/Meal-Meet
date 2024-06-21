@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549601663943",
+    "project_id": "pirateprogrammers-ee6f4",
+    "storage_bucket": "pirateprogrammers-ee6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549601663943:android:51d1167256476783f257e2",
+        "android_client_info": {
+          "package_name": "com.example.pirateprogrammers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk17L8wDvu1-dfLuK-wsnnsK_tWkr0GYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
