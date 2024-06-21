@@ -1,2 +1,16 @@
-# Meal-Meet
-Meal Meet addresses food insecurity through a Flutter app providing real-time updates, streamlining volunteer coordination, and leveraging user feedback. Our innovative solution creates an efficient food distribution system, working towards a world where no one goes hungry.
+# pirateprogrammers
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
